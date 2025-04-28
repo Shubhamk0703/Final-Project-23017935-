@@ -46,7 +46,7 @@ The following visualization strategies were applied in this project:
 - **Random Forest Classifier**
 - **XGBoost Classifier**
 - **Multilayer Perceptrons (MLP)**
-- 
+  
 ## Evaluation Metrics
 - **Confusion matrix**
 - **Accuracy**
