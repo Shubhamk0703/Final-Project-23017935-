@@ -45,7 +45,8 @@ The following visualization strategies were applied in this project:
 - **Support Vector Machine (SVM)**
 - **Random Forest Classifier**
 - **XGBoost Classifier**
-
+- **Multilayer Perceptrons (MLP)**
+- 
 ## Evaluation Metrics
 - **Confusion matrix**
 - **Accuracy**
